@@ -47,3 +47,5 @@ Repository: https://github.com/lucNovais/MobVis/
 
 Alves, Talita & Rettore, Paulo & Santos, Bruno. (2023). A Mobility Model of The Internet of Things. 221-229. 10.1145/3617023.3617054. 
 Repository: https://github.com/talitaester/SIOT-MM-implementations (outdated, do not use)
+
+https://github.com/s6lelaus/characterizingsiot
